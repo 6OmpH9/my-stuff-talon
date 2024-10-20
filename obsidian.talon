@@ -3,7 +3,7 @@ app: /Obsidian/
 # tab navigation
 tag(): user.tabs
 
-go back:
+#go back:
     key(ctrl-alt-b)
 
 go forward:

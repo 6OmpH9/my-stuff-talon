@@ -1,4 +1,5 @@
 os: windows
+os: linux
 -
 yep:
     mouse_click(0)

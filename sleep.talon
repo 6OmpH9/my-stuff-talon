@@ -1,4 +1,5 @@
 os: windows
+os: linux
 mode: command
 mode: dictation
 -
